@@ -19,8 +19,8 @@ public class Logintoapplication {
 		
 		driver.get("https://www.facebook.com");
 		
-		driver.findElement(By.id("email")).sendKeys("pradeepnikam17@gmail.com");
-		driver.findElement(By.name("pass")).sendKeys("Atlantic88");
+		driver.findElement(By.id("email")).sendKeys("pradeep@gmail.com");
+		driver.findElement(By.name("pass")).sendKeys("");
 		driver.findElement(By.name("login")).click();
 		
 		String exptitle="Facebook";
