@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-03T19:16:55 IST" name="Loan Department" finished-at="2024-10-03T19:16:55 IST" duration-ms="320">
+    <groups>
+    </groups>
+    <test started-at="2024-10-03T19:16:55 IST" name="Carloan" finished-at="2024-10-03T19:16:55 IST" duration-ms="140">
+      <class name="uiautomation.uiautomation.CarloanTNG">
+        <test-method signature="Demo2()[pri:0, instance:uiautomation.uiautomation.CarloanTNG@6e9175d8]" started-at="2024-10-03T19:16:55 IST" name="Demo2" finished-at="2024-10-03T19:16:55 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+      </class> <!-- uiautomation.uiautomation.CarloanTNG -->
+    </test> <!-- Carloan -->
+    <test started-at="2024-10-03T19:16:55 IST" name="Homeloan" finished-at="2024-10-03T19:16:55 IST" duration-ms="21">
+      <class name="uiautomation.uiautomation.HomeloanTNG">
+        <test-method signature="BHK1()[pri:0, instance:uiautomation.uiautomation.HomeloanTNG@59402b8f]" started-at="2024-10-03T19:16:55 IST" name="BHK1" finished-at="2024-10-03T19:16:55 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BHK1 -->
+        <test-method signature="BHK2()[pri:0, instance:uiautomation.uiautomation.HomeloanTNG@59402b8f]" started-at="2024-10-03T19:16:55 IST" name="BHK2" finished-at="2024-10-03T19:16:55 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BHK2 -->
+      </class> <!-- uiautomation.uiautomation.HomeloanTNG -->
+    </test> <!-- Homeloan -->
+  </suite> <!-- Loan Department -->
+</testng-results>
